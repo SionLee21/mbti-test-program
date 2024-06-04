@@ -8,7 +8,8 @@ int main(void) {
 
 	
 	runTest(&tester, qlist);
-  printGraph(&tester);
+    printGraph(&tester);
 	printResult(&tester);
 	return 0;
 }
+

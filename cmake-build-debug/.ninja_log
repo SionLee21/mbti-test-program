@@ -1,0 +1,7 @@
+# ninja log v5
+743	936	1717485639289692423	mbti_test_program	134df8e00357ae2e
+2	743	1717485639096917234	CMakeFiles/mbti_test_program.dir/mbti_program/mbtilib.c.o	55c9fcd8e5fc060
+1	736	1717485639086737340	CMakeFiles/mbti_test_program.dir/mbti_program/main.c.o	ff16934efdb6dc79
+0	1099	1717485726350980147	build.ninja	d4b515f94ff5be05
+12	394	1717485726776161853	CMakeFiles/mbti_test_program.dir/mbti_program/mbtilib.c.o	55c9fcd8e5fc060
+395	614	1717485726998297166	mbti_test_program	134df8e00357ae2e

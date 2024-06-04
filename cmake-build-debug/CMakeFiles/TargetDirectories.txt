@@ -1,0 +1,3 @@
+/Users/ision/Desktop/학교/mbtiProgram/mbti-test-program/cmake-build-debug/CMakeFiles/mbti_test_program.dir
+/Users/ision/Desktop/학교/mbtiProgram/mbti-test-program/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ision/Desktop/학교/mbtiProgram/mbti-test-program/cmake-build-debug/CMakeFiles/rebuild_cache.dir
